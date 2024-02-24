@@ -18,3 +18,9 @@
   * scaling is a process of
       * allocating (adding)
       * deallocating(removing) resources
+ * Elasticity:
+    * Auto Scaling
+    * Elasricity is the abilty to scale dynamically
+  * Agility:
+     * agility is the ability to react quickly
+     * Agility is the ability to allocate and deallocate scale resources quickly
