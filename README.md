@@ -24,3 +24,16 @@
   * Agility:
      * agility is the ability to react quickly
      * Agility is the ability to allocate and deallocate scale resources quickly
+   * Fault Tolerance:
+      * (web, vm, sql servers, disak arrays)
+      * Fault tolerance is the ability to remain up and running during compoenet and service failures
+      * Disaster is a serious disruption of services casued by natural or human induced causes
+   * disaster recovery:
+      * set up two data service with two regions)
+      * Disaster ecovery is the ability to recover from an event that has taken down the service(disaster)
+   * High Availability:
+      * availabilty = uptime/ uptime + downtime
+      * availabilty is a measure of  system uptime for users/services
+      * High availabilty is the ability to keep service running for extended periods of time with very little downtime.
+   
+     
